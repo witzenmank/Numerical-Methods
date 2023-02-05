@@ -1,4 +1,4 @@
-# Numerical-Methods
+# ∫ Numerical-Methods
 *Don't copy/paste for homework, but they 
 illustrate examples of how to implement* 
 Invidivual methods are contained in branches
